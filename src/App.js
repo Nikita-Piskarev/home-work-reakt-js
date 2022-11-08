@@ -7,7 +7,7 @@ const pensel = {
   name: "Pensel",
   description:
     "Wooden pencil with graphite lead, yellow, with a grout at the end",
-  price: 15,
+  price: '15$',
   amount: 2,
 };
 
@@ -15,7 +15,7 @@ const pen = {
   name: "Pen",
   description:
     "Blue automatic handle",
-  price: 23,
+  price: '23$',
   amount: 0,
 };
 
